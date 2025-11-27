@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Minimal theme tweaks */
+body { background: linear-gradient(180deg,#031021 0%, #071025 60%); }
